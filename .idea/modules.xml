@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\sandesh\AndroidStudioProjects\ftp\ftp_client\AndroidStudioProjects.iml" filepath="C:\Users\sandesh\AndroidStudioProjects\ftp\ftp_client\AndroidStudioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sandesh\AndroidStudioProjects\ftp_client\app\app.iml" filepath="C:\Users\sandesh\AndroidStudioProjects\ftp_client\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-net-3.6/commons-net-3.6.iml" filepath="$PROJECT_DIR$/commons-net-3.6/commons-net-3.6.iml" />
+      <module fileurl="file://C:\Users\sandesh\AndroidStudioProjects\ftp_client\commons-net-3.6\commons-net-3.6.iml" filepath="C:\Users\sandesh\AndroidStudioProjects\ftp_client\commons-net-3.6\commons-net-3.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ftp_client.iml" filepath="$PROJECT_DIR$/ftp_client.iml" />
+      <module fileurl="file://C:\Users\sandesh\AndroidStudioProjects\ftp_client\.idea\ftp_client.iml" filepath="C:\Users\sandesh\AndroidStudioProjects\ftp_client\.idea\ftp_client.iml" />
+    </modules>
+  </component>
+</project>
